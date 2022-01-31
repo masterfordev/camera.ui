@@ -15,7 +15,7 @@ const languageList = {
   de: 'German (de)',
   nl: 'Dutch (nl)',
   en: 'English (en)',
-  es: 'Español (es)',
+  es: 'Spanish (es)',
 };
 
 /**
