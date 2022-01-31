@@ -15,13 +15,14 @@ const languageList = {
   de: 'German (de)',
   nl: 'Dutch (nl)',
   en: 'English (en)',
+  es: 'Español (es)',
 };
 
 /**
  * Update this array each time a new translation is added
  * It must be a valid language shortcut, please see languages.js for available shortcuts
  */
-const languages = ['de', 'nl', 'en'];
+const languages = ['de', 'nl', 'en', 'es'];
 
 const supportedLanguages = (lang) => {
   if (!lang) {
